@@ -1,0 +1,4 @@
+Hello,
+
+Please find Claim Waiting Report for {} . Details are in the attached file."
+

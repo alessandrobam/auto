@@ -1,0 +1,16 @@
+{},
+
+Por favor verificar as diferencas entre ILC e Cerponto abaixo
+
+Obrigado
+Ale
+
+
+
+Complexity:
+	1 - Extraction Logic
+			- Dependend data
+			- Custom Mapping to be taking into consideration
+	2 - Are we touching any maps?
+			-
+	

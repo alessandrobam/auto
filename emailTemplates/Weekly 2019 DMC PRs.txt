@@ -1,0 +1,11 @@
+Hello,
+
+Please find the list of DMC Approved PR for 2019 as of {}. The following filters were applied to PS Steering data:
+
+    Work type = Project Request
+    Plan Year = 2019
+    Requesting Division = BTS - CORP AFFILIATE
+    DMC Stage = DMC Approved
+    Status is not Canceled or On Hold
+    Execution Status is not Canceled or Completed
+    Primary Supplier is IBM

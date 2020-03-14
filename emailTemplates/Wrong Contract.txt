@@ -1,0 +1,6 @@
+Hi,
+
+Please find the list of projects that possibly have incorrect contract type in CP.
+
+
+

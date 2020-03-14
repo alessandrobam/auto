@@ -1,0 +1,9 @@
+BPCS and ADAM Team,
+
+El listado de tickets cerrados con categorizacion pendientes ({}) esta disponible en el box. Por favor, los clasifiquen (llenar columnas en amarillo) antes del final de la semana.
+
+Esta tarea es muy importante para nuestra operacion, por eso espero maxima calida en las informaciones. Usen el campo How to avoid this ticket in future" para proponer ideas de como esto ticket pode ser evitado en en futuro. Todos los campos son necesarios, consulten la pestana Data caso tengan dudas. 
+
+Box Link:  https://ibm.box.com/s/afemzxhybnnxz50ub8ap5xet1px34vh2
+
+Summary per Team/Resource:

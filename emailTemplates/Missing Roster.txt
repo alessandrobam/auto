@@ -1,0 +1,6 @@
+Hello,
+         
+I need your help reviewing the resources. Please validate the resources that are not in roster or have missing information.
+    - Verify if these resources are valid for the account.
+    - If they are, Please fill out the columns in orange in the attached file and send it to me. I will update the roster.
+    - Unidentified resources will be asked to reverse their hours.
